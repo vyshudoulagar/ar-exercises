@@ -25,5 +25,3 @@ end
     puts s.name
     puts s.annual_revenue
 end
-
-puts @mens_stores.count
